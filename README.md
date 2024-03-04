@@ -1,12 +1,12 @@
 <h1 align="center">Hi! I'm Zuhair Shaikh 👋</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 I am a final-year Computer Engineering student at the Smith School of Engineering at Queen's University, passionate about the realms of software development, machine learning, embedded systems, robotics, and much more!
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuhair-shaikh-692455195/) 
 
-# 💻 Toolbox:
+## 💻 Toolbox:
 Languages:\
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -52,12 +52,12 @@ Other:\
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZuhairS5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZuhairS5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairS5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 LeetCode Stats:
+## 📊 LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Zuhair55)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
