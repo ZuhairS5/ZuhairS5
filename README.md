@@ -1,7 +1,7 @@
-<h1 align="center">Hi! 👋 I'm Zuhair Shaikh</h1>
+<h1 align="center">Hi! I'm Zuhair Shaikh 👋</h1>
 
 # 💫 About Me:
-I am a final-year Computer Engineering student at the Smith School of Engineering at Queen's University :romania:, passionate about the realms of software development, machine learning, embedded systems, robotics, and much more!
+I am a final-year Computer Engineering student at the Smith School of Engineering at Queen's University, passionate about the realms of software development, machine learning, embedded systems, robotics, and much more!
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuhair-shaikh-692455195/) 
