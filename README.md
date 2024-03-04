@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋 I'm Zuhair Shaikh</h1>
 
 # 💫 About Me:
-I am a final-year Computer Engineering student at the Smith School of Engineering at Queen's University , passionate about the realms of software development, machine learning, embedded systems, robotics, and much more!
+I am a final-year Computer Engineering student at the Smith School of Engineering at Queen's University 🇷🇴, passionate about the realms of software development, machine learning, embedded systems, robotics, and much more!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuhair-shaikh-692455195/) 
 
 # 💻 Tech Toolbox:
@@ -59,10 +59,5 @@ Other:
 
 # 📊 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Zuhair55)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
