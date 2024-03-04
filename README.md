@@ -52,7 +52,7 @@ Other:\
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:\
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZuhairS5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZuhairS5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairS5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
