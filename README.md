@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Zuhair Shaikh 👋</h1>
 
 ## 💫 About Me:
-I am a Computer Engineering graduate from the Smith School of Engineering at Queen's University, passionate about the realms of embedded systems, robotics, automotive technology, IoT and much more!
+I am a Computer Engineering graduate from the Smith School of Engineering at Queen's University, passionate about the realms of embedded systems, robotics, automotive technology, IoT, and much more!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuhair-shaikh-692455195/) 
