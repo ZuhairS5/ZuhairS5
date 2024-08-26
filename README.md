@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Zuhair!👋<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48">
-</h1>
+<h1 align="center">Hey, I'm Zuhair!![image](https://github.com/user-attachments/assets/8afab406-b7e0-43d2-b0ff-3d2612ce6aa6)
+👋</h1>
 
 ## 💫 About Me:
 I'm a Computer Engineering graduate from the Smith School of Engineering at Queen's University. I'm super passionate about the realm of embedded systems and their applications in robotics, automotive technology, and much more! I'm hoping to launch a new career as an Embedded Systems Engineer where I can leverage my passion and drive to bring about disruptive change to society!
