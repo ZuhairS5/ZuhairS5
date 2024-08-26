@@ -1,4 +1,4 @@
-<h1 align="center">Hey!👋 I'm Zuhair - Engineer  and Proud Canadian🍁🦫</h1>
+<h1 align="center">Hey!👋 I'm Zuhair - Engineer💻⚡ and Proud Canadian🍁</h1>
 
 ## 💫 About Me:
 I'm a Computer Engineering graduate from the Smith School of Engineering at Queen's University. I'm super passionate about the realm of embedded systems and their applications in robotics, automotive technology, and much more! I'm hoping to launch a new career as an Embedded Systems Engineer where I can leverage my passion and drive to bring about disruptive change to society!
