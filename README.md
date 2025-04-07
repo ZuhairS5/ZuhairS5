@@ -13,8 +13,6 @@
 
 ---
 
-## 🔧 Toolbox
-
 ### 🧠 Data Science & Analytics
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()  
@@ -39,18 +37,6 @@
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhairshaikh&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairshaikh&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
-## ✍️ Blog & Articles (Coming Soon)
-Stay tuned for data breakdowns, Tableau dashboards, SQL tips and more!
 
 ---
 
