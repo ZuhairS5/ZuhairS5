@@ -9,7 +9,7 @@
 
 - 💼 Current Occupation: Data Analyst at Contextual AI 
 - 🎓 Education: B.S. in Computer Engineering, Minor in Business and Entrepreneurship
-- 🌎 Residence: Toronto, Canada 🍁  
+- 🌎 Residence: Toronto, Canada
 - 💬 Languages: English, Urdu
 - 🔥 Hobbies: Football, hiking, personal finance, learning new tech, and binging.
 
