@@ -6,12 +6,18 @@
 </p>
 
 ---
+## 👋 About me:
 
-## 🌐 Connect with me:
+
+
+---
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhair-shaikh/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhairshaikh98@gmail.com)
 
 ---
+
+## 🛠️ Toolbox:
 
 ### 🧠 Data Science & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
