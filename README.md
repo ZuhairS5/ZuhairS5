@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Zuhair Shaikh</h1>
+<h1 align="center">Hey 👋, I'm Zuhair! </h1>
 <h3 align="center">Data Analyst 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
 
 <p align="center">
