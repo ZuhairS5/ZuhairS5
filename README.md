@@ -11,7 +11,7 @@
 - 🎓 Education: B.S. in Computer Engineering, Minor in Business and Entrepreneurship
 - 🌎 Residence: Toronto, Canada
 - 💬 Languages: English, Urdu
-- 🔥 Hobbies: Football, hiking, personal finance, learning new tech, and binging.
+- 🔥 Hobbies: Football, hiking, personal finance, learning new tech, and binging
 
 ---
 
