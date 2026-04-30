@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Zuhair! </h1>
-<h3 align="center">Data Analyst 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
+<h3 align="center">Consultant 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D47&center=true&vCenter=true&width=435&lines=Turning+data+into+insightful+stories.;Always+curious%2C+always+analyzing." alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-- 💼 Current Occupation: Data Analyst @ Contextual AI 
+- 💼 Current Occupation: Consultant @ FDM Group 
 - 🎓 Education: B.S. in Computer Engineering, Minor in Business and Entrepreneurship
 - 🌎 Residence: Toronto, Canada
 - 💬 Languages: English, Urdu
@@ -22,7 +22,7 @@
 
 ## 🛠️ Toolbox:
 
-### 🧠 Data Science & Analytics
+### 🧠 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
