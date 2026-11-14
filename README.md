@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Zuhair! </h1>
 <h3 align="center">Business Analyst 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D47&center=true&vCenter=true&width=435&lines=Turning+data+into+insightful+stories.;Always+curious%2C+always+analyzing." alt="Typing SVG" />
-</p>
-
 ## 👤 About Me
 
 - 💼 Current Occupation: Business Analyst @ CI Financial
