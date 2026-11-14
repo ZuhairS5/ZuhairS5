@@ -11,12 +11,14 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhair-shaikh/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhairshaikh98@gmail.com)
 
 ---
 
-## 🛠️ Toolbox:
+## 🛠️ Toolbox
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -29,5 +31,6 @@
 ---
 
 ## 🚀 LeetCode Stats
+
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/Zuhair55)](https://github.com/Zuhair55/leetcode-stats)
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
