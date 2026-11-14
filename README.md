@@ -26,5 +26,8 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
 
+[![LeetCode Stats](https://leetcode.com/u/Zuhair55/)](https://leetcode.com)
+
+
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
