@@ -26,7 +26,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
 
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{https://leetcode.com/u/Zuhair55/}?theme={dark}&bgColor={hex_val})
+![LeetCode Stats](https://Zuhair55.com)
 
 
 
