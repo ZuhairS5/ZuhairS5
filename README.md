@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Zuhair! 👋</h1>
-<h3 align="center">Business Analyst 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
+<h3 align="center">Business Systems Analyst 📊 | Computer Engineering Graduate 💻⚡ | Proud Canadian 🍁</h3>
 
 ## 👤 About Me
 
-- 💼 Current Occupation: Business Analyst @ CI Financial
+- 💼 Current Occupation: Business Systems Analyst @ CI Financial
 - 🎓 Education: B.S. in Computer Engineering, Minor in Business and Entrepreneurship
 - 🌎 Residence: Mississauga, Canada
 - 💬 Languages: English, Urdu
